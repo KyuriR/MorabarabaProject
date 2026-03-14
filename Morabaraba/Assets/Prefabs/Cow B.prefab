@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 7118841041992749861}
   - component: {fileID: 5872655189150223918}
   m_Layer: 0
-  m_Name: Cow(Piece)
+  m_Name: Cow B
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -85,7 +85,7 @@ SpriteRenderer:
   m_SortingOrder: 2
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0.4641509, g: 0.27101806, b: 0.03065141, a: 1}
+  m_Color: {r: 0.26290488, g: 0.79622644, b: 0.2845963, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -142,7 +142,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43571d37008a1fd46be498bda40b11fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DragCow
-  cowPrefab: {fileID: 0}
+  playerNumber: 2
 --- !u!50 &5872655189150223918
 Rigidbody2D:
   serializedVersion: 5
